@@ -1,4 +1,7 @@
+<img width="157" height="23" alt="image" src="https://github.com/user-attachments/assets/f22f53a9-f38b-418c-9bd6-fac0c1c1daf1" />
 # Auto Gen Skills
+
+http://113.46.15.232:80/v2/infer/2f62fe2b-43ab-4780-bfc0-a35d55f779ad/v1/chat/completions
 
 从开源项目源码与云服务官方文档中自动提炼的 **Claude Code Skills** 集合。每个技能以结构化 Markdown 文件呈现，可供开发者学习参考，也可作为 AI 编程助手的上下文知识加载使用。
 
